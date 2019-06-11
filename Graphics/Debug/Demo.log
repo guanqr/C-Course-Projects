@@ -1,0 +1,50 @@
+﻿  button.c
+  exceptio.c
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\exceptio.c(69): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\exceptio.c(79): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  genlib.c
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\genlib.c(121): warning C4996: 'vsprintf': This function or variable may be unsafe. Consider using vsprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1469): note: 参见“vsprintf”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\genlib.c(136): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  graphics.c
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\graphics.c(790): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\graphics.c(791): warning C4996: 'freopen': This function or variable may be unsafe. Consider using freopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(243): note: 参见“freopen”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\graphics.c(822): warning C4101: “consoleRect”: 未引用的局部变量
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\graphics.c(1260): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\graphics.c(1261): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\graphics.c(1262): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\graphics.c(1648): warning C4244: “=”: 从“double”转换到“int”，可能丢失数据
+  random.c
+  simpio.c
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\simpio.c(145): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: 参见“strncpy”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\simpio.c(157): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+  strlib.c
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(53): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(54): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(82): warning C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(338): note: 参见“strncpy”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(109): warning C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\string.h(133): note: 参见“strcpy”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(139): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(152): warning C4018: “>”: 有符号/无符号不匹配
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(194): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(206): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: 参见“sscanf”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(216): warning C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(1774): note: 参见“sprintf”的声明
+c:\users\thinkpad\desktop\ccc\c-course-projects\graphics\libgraphics\strlib.c(226): warning C4996: 'sscanf': This function or variable may be unsafe. Consider using sscanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.17134.0\ucrt\stdio.h(2263): note: 参见“sscanf”的声明
+  demo.c
+  linkedlist.c
+  正在生成代码...
+  Demo.vcxproj -> C:\Users\Thinkpad\Desktop\ccc\C-Course-Projects\Graphics\Debug\Demo.exe
