@@ -1,2 +1,2 @@
 # C-Homework-Collection
-This is a collection  of c language course' homeworks.
+This is a collection of C language coursework.
